@@ -1,2 +1,3 @@
-Git is a version control system
-Git is free software
+initial GIT-> git init
+Git is a distributed version control system.
+Git is free software.
